@@ -1,0 +1,30 @@
+/* body{
+    background-image: url('wallpaperbetter.com_1280x800.jpg');
+} */
+
+.colorfont{
+    color: azure;
+}
+
+#title-home{
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#presentation{
+    border-style: groove;
+    position: absolute;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-content: center;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-width: 5px;
+    border-radius: 15px;
+}
+
+#text-presentation{
+    margin-left: 50px;
+    margin-right: 50px;
+}

@@ -1,0 +1,29 @@
+header{
+    background-image: url("/src/assets/images/wallpaperHead.jpg");
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.htitle{
+    background-color: blue;
+}
+
+/* --- main styles --- */
+
+.mMaxImageWidth{
+    max-width: 500px;
+}
+
+/* --- footer --- */
+
+footer{
+    background-color: black;
+    margin-top: auto;
+}
+
+.fsizeImage{
+    width: 50px;
+    margin: 0 10px;
+}
